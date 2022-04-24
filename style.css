@@ -126,6 +126,15 @@ ul.timeline > li:before {
     background-color: #f8f9fa;
 }
 
+p.del{
+    text-decoration-line: line-through;
+    text-decoration-style: solid;
+}
+
+p.chk{
+    font-weight: bold;
+    color: #c48283;
+}
 th{
     padding: 16px;
 }
